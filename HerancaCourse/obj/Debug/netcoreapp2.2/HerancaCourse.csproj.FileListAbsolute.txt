@@ -1,0 +1,11 @@
+C:\Users\ander\program\balta\secao10\HerancaCourse\obj\Debug\netcoreapp2.2\HerancaCourse.csprojAssemblyReference.cache
+C:\Users\ander\program\balta\secao10\HerancaCourse\obj\Debug\netcoreapp2.2\HerancaCourse.csproj.CoreCompileInputs.cache
+C:\Users\ander\program\balta\secao10\HerancaCourse\obj\Debug\netcoreapp2.2\HerancaCourse.AssemblyInfoInputs.cache
+C:\Users\ander\program\balta\secao10\HerancaCourse\obj\Debug\netcoreapp2.2\HerancaCourse.AssemblyInfo.cs
+C:\Users\ander\program\balta\secao10\HerancaCourse\bin\Debug\netcoreapp2.2\HerancaCourse.deps.json
+C:\Users\ander\program\balta\secao10\HerancaCourse\bin\Debug\netcoreapp2.2\HerancaCourse.runtimeconfig.json
+C:\Users\ander\program\balta\secao10\HerancaCourse\bin\Debug\netcoreapp2.2\HerancaCourse.runtimeconfig.dev.json
+C:\Users\ander\program\balta\secao10\HerancaCourse\bin\Debug\netcoreapp2.2\HerancaCourse.dll
+C:\Users\ander\program\balta\secao10\HerancaCourse\bin\Debug\netcoreapp2.2\HerancaCourse.pdb
+C:\Users\ander\program\balta\secao10\HerancaCourse\obj\Debug\netcoreapp2.2\HerancaCourse.dll
+C:\Users\ander\program\balta\secao10\HerancaCourse\obj\Debug\netcoreapp2.2\HerancaCourse.pdb

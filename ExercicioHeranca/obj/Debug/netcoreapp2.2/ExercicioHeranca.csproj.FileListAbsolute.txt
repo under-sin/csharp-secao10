@@ -1,0 +1,11 @@
+C:\Users\ander\program\balta\secao10\ExercicioHeranca\bin\Debug\netcoreapp2.2\ExercicioHeranca.deps.json
+C:\Users\ander\program\balta\secao10\ExercicioHeranca\bin\Debug\netcoreapp2.2\ExercicioHeranca.runtimeconfig.json
+C:\Users\ander\program\balta\secao10\ExercicioHeranca\bin\Debug\netcoreapp2.2\ExercicioHeranca.runtimeconfig.dev.json
+C:\Users\ander\program\balta\secao10\ExercicioHeranca\bin\Debug\netcoreapp2.2\ExercicioHeranca.dll
+C:\Users\ander\program\balta\secao10\ExercicioHeranca\bin\Debug\netcoreapp2.2\ExercicioHeranca.pdb
+C:\Users\ander\program\balta\secao10\ExercicioHeranca\obj\Debug\netcoreapp2.2\ExercicioHeranca.csprojAssemblyReference.cache
+C:\Users\ander\program\balta\secao10\ExercicioHeranca\obj\Debug\netcoreapp2.2\ExercicioHeranca.csproj.CoreCompileInputs.cache
+C:\Users\ander\program\balta\secao10\ExercicioHeranca\obj\Debug\netcoreapp2.2\ExercicioHeranca.AssemblyInfoInputs.cache
+C:\Users\ander\program\balta\secao10\ExercicioHeranca\obj\Debug\netcoreapp2.2\ExercicioHeranca.AssemblyInfo.cs
+C:\Users\ander\program\balta\secao10\ExercicioHeranca\obj\Debug\netcoreapp2.2\ExercicioHeranca.dll
+C:\Users\ander\program\balta\secao10\ExercicioHeranca\obj\Debug\netcoreapp2.2\ExercicioHeranca.pdb

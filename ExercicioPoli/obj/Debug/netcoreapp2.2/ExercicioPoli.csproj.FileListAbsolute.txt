@@ -1,0 +1,11 @@
+C:\Users\ander\program\balta\secao10\ExercicioPoli\bin\Debug\netcoreapp2.2\ExercicioPoli.deps.json
+C:\Users\ander\program\balta\secao10\ExercicioPoli\bin\Debug\netcoreapp2.2\ExercicioPoli.runtimeconfig.json
+C:\Users\ander\program\balta\secao10\ExercicioPoli\bin\Debug\netcoreapp2.2\ExercicioPoli.runtimeconfig.dev.json
+C:\Users\ander\program\balta\secao10\ExercicioPoli\bin\Debug\netcoreapp2.2\ExercicioPoli.dll
+C:\Users\ander\program\balta\secao10\ExercicioPoli\bin\Debug\netcoreapp2.2\ExercicioPoli.pdb
+C:\Users\ander\program\balta\secao10\ExercicioPoli\obj\Debug\netcoreapp2.2\ExercicioPoli.csprojAssemblyReference.cache
+C:\Users\ander\program\balta\secao10\ExercicioPoli\obj\Debug\netcoreapp2.2\ExercicioPoli.csproj.CoreCompileInputs.cache
+C:\Users\ander\program\balta\secao10\ExercicioPoli\obj\Debug\netcoreapp2.2\ExercicioPoli.AssemblyInfoInputs.cache
+C:\Users\ander\program\balta\secao10\ExercicioPoli\obj\Debug\netcoreapp2.2\ExercicioPoli.AssemblyInfo.cs
+C:\Users\ander\program\balta\secao10\ExercicioPoli\obj\Debug\netcoreapp2.2\ExercicioPoli.dll
+C:\Users\ander\program\balta\secao10\ExercicioPoli\obj\Debug\netcoreapp2.2\ExercicioPoli.pdb
